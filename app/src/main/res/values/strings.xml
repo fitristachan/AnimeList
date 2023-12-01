@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Anime</string>
+    <string name="placeholder_search">Search any anime</string>
+    <string name="title_activity_add_anime">AddAnimeActivity</string>
+    <string name="title_activity_detail_anime">DetailAnime</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="null_animelist">Eto, looks like you have not add an anime yet:(</string>
+    <string name="icon_confused">Icon Confused</string>
+    <string name="add_new_anime">Add New Anime</string>
+    <string name="my_profile">about_page</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="anime_picture">Anime Picture</string>
+    <string name="no_media_selected">No media selected</string>
+    <string name="type_anime_title">Anime Title</string>
+    <string name="type_anime_total_episode">Total Episodes</string>
+    <string name="type_anime_synopsis">Anime Synopsis</string>
+    <string name="hmm_we_cannot_find_that_title">Hmm, we cannot find that title</string>
+</resources>
